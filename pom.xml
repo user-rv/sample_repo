@@ -20,7 +20,7 @@
 
     <groupId>com.github.chrishantha.sample</groupId>
     <artifactId>java-samples</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>${BUILD_NUMBER}-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Java Samples</name>
